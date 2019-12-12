@@ -1,0 +1,22 @@
+rank: 26
+jtanderson: SUCCEEDED   password: 100nodes
+
+rank: 35
+george: SUCCEEDED   password: red32
+
+rank: 34
+alice: SUCCEEDED   password: 99puppy
+
+rank: 29
+maria: SUCCEEDED   password: password123
+
+rank: 15
+rmshifler: SUCCEEDED   password: 1genius
+
+rank: 14
+bob: SUCCEEDED   password: fluffy
+
+
+real	14m25.738s
+user	116m18.525s
+sys	12m24.644s
