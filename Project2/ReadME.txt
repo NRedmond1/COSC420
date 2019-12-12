@@ -3,10 +3,9 @@ Nathan Redmond and Lucas Martin
 Last Updated: 9 December 2019
 
 About:
-  This project was a goal to build a miniature google. Our professor gave us two files, Metadata.txt and Citations.txt.
-In the metadata file there were list of articles with a page id, title, author, and abstract of what the paper was about
-all separated by "+++++". The citations file was a list of page ids and what articles that page id references separated
-by "+++++" and "-----" between page id and references. 
+  This project was a goal to build a miniature google search. Our professor gave us two files, Metadata.txt and 
+Citations.txt. In the metadata file there were list of articles with a page id, title, author, and abstract of what 
+the paper was about all separated by "+++++". The citations file was a list of page ids and what articles that page id references separated by "+++++" and "-----" between page id and references. 
 
 Our goal and attempt:
   We created two programs, one to split up the metadata file in parallel and another one to search a word with feedback.
